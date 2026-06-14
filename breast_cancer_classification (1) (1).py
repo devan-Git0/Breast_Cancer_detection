@@ -1,6 +1,6 @@
 """
 Breast Cancer Detection & Classification
-Achieves 95% classification accuracy using K-fold cross-validation
+
 """
 
 import numpy as np
